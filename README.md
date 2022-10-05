@@ -5,6 +5,8 @@
 Códigos, conteúdos de aulas e informações da disciplina.
 
 links:
+ - PDFs, PPTs: https://laureatelatambr-my.sharepoint.com/:f:/g/personal/arthur_rocha_ecossistemaanima_com_br/EkPBF_ITuiBLknplmfJqfD0BMWJwj7Oq46acsfsxuhJX4g?e=2zC6Me
+
  - Quiz Matrizes: https://forms.gle/WHiPrHfMu1C2wEYw5
 
  - Exercício análise exploratória: Abrir o arquivo "Exercicio-Pandas--Analise-Dados.ipynb" e resolver as questões.
